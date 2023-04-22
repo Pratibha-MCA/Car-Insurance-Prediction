@@ -3,7 +3,6 @@ import pandas as pd
 import numpy as np
 import pickle
 from PIL import Image
-from sklearn.preprocessing import StandardScaler
 
 
 html_temp = """
